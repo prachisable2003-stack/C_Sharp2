@@ -1,0 +1,7 @@
+C:\Users\prach\Desktop\dot net\c#\SingleInheritance.Example\SingleInheritance.Example\bin\Debug\SingleInheritance.Example.exe.config
+C:\Users\prach\Desktop\dot net\c#\SingleInheritance.Example\SingleInheritance.Example\bin\Debug\SingleInheritance.Example.exe
+C:\Users\prach\Desktop\dot net\c#\SingleInheritance.Example\SingleInheritance.Example\bin\Debug\SingleInheritance.Example.pdb
+C:\Users\prach\Desktop\dot net\c#\SingleInheritance.Example\SingleInheritance.Example\obj\Debug\SingleInheritance.Example.csproj.AssemblyReference.cache
+C:\Users\prach\Desktop\dot net\c#\SingleInheritance.Example\SingleInheritance.Example\obj\Debug\SingleInheritance.Example.csproj.CoreCompileInputs.cache
+C:\Users\prach\Desktop\dot net\c#\SingleInheritance.Example\SingleInheritance.Example\obj\Debug\SingleInheritance.Example.exe
+C:\Users\prach\Desktop\dot net\c#\SingleInheritance.Example\SingleInheritance.Example\obj\Debug\SingleInheritance.Example.pdb
